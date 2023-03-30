@@ -7,7 +7,8 @@ In the following repository you will find the answers and explanations to the ex
 
 ### 12.6.7
 #####
-R Code Link:
+R Code Link: 
+
 Python Code Link:
 ####
 
@@ -15,6 +16,7 @@ Python Code Link:
 ### 12.6.8
 ####
 R Code Link:
+
 Python Code Link:
 ####
 
